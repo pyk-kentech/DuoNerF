@@ -1,0 +1,8 @@
+numpy<2
+pillow
+opencv-python-headless
+imageio
+tqdm
+einops
+torch
+torchvision
