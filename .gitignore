@@ -142,3 +142,4 @@ myjob.*
 _smoke_data/
 .venv/
 *.pyc
+outputs/
